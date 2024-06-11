@@ -1,5 +1,7 @@
 # Generative AI Course Curriculum
 
+- [Course Content](https://www.coursera.org/specializations/generative-ai-for-software-developers)
+
 ## Overview
 
 - Identify real-world generative AI uses and describe popular generative AI models and tools for text, code, image, audio, and video
