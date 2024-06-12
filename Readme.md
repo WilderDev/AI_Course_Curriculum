@@ -89,7 +89,7 @@
    - **Description**: In this module, you will discover techniques for skillfully crafting prompts that effectively steer generative AI models. You will also learn about various prompt engineering approaches that can enhance the capabilities of generative AI models to produce precise and relevant responses.
    - **Content**: 4 videos + 2 readings + 2 assignments + 3 app items + 1 discussion prompt
 3. **Project: Applying Prompt Engineering Techniques and Best Practices**
-   - **Description**: This module includes a graded quiz to test and reinforce your understanding of concepts covered in the course. The module also includes a glossary to enhance comprehension of generative AI-related terms. The module includes a final project, which provides an opportunity to gain hands-on experience on the concepts covered in the course. The module also includes optional content. This content includes the techniques for writing effective prompts for image generation. Additionally, you can learn about Prompt Lab, a prompting tool designed to maximize your prompt engineering capabilities in IBM watsonx.
+   - **Description**: This module includes a graded quiz to test and reinforce your understanding of concepts covered in the course. The module also includes a glossary to enhance comprehension of generative AI-related terms. The module includes a final project, which provides an opportunity to gain hands-on experience on the concepts covered in the course. The module also includes optional content. This content includes the techniques for writing effective prompts for image generation.
    - **Content**: 1 video + 3 readings + 1 assignment + 3 app items + 3 plugins
 
 ### Section 3: Elevate your Software Development Career with AI

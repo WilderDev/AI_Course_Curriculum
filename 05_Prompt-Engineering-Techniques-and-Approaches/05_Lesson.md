@@ -13,6 +13,8 @@
 
 ### What you'll learn
 
+In this module, you will discover techniques for skillfully crafting prompts that effectively steer generative AI models. You will also learn about various prompt engineering approaches that can enhance the capabilities of generative AI models to produce precise and relevant responses.
+
 ### Terminology & Concepts
 
 ## LESSON

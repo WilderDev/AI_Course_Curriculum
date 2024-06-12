@@ -13,6 +13,8 @@
 
 ### What you'll learn
 
+This module includes a graded quiz to test and reinforce your understanding of concepts covered in the course. The module also includes a glossary to enhance comprehension of generative AI-related terms. The module includes a final project, which provides an opportunity to gain hands-on experience on the concepts covered in the course. The module also includes optional content. This content includes the techniques for writing effective prompts for image generation.
+
 ### Terminology & Concepts
 
 ## LESSON

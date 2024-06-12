@@ -13,6 +13,8 @@
 
 ### What you'll learn
 
+In this module, you will learn the concept of prompt engineering in generative AI. You will also learn the best practices for writing effective prompts and assess common prompt engineering tools.
+
 ### Terminology & Concepts
 
 ## LESSON
