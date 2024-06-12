@@ -1,4 +1,4 @@
-# TITLE
+# Lesson 3: Project - Generative AI
 
 ## PREVIEW
 

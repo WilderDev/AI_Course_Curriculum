@@ -1,4 +1,4 @@
-# TITLE
+# Lesson 6: Project - Prompt Engineering
 
 ## PREVIEW
 
