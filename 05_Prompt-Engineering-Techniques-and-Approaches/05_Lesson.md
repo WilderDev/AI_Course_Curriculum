@@ -35,6 +35,12 @@ In this module, you will discover techniques for skillfully crafting prompts tha
 
 - **User feedback loop**: A technique where users provide feedback to text prompts, allowing for iterative refinement of the prompts based on the LLM's generated response.
 
+- **Prompt Hacks**: Techniques or strategies that involve manipulating the prompts or inputs provided to a generative AI model, such as a large language model (LLM) or an image generation model, to produce desired or specific outputs. These hacks include carefully crafting the prompts to influence the model's behavior and generate outputs that align with the user's intentions. They improve the performance of LLMs by:
+
+  - Improving the quality and accuracy of LLM outputs: By carefully crafting the prompt, you can guide the LLM toward the desired output and reduce the likelihood of errors.
+  - Enabling LLMs to perform new and innovative tasks: By combining prompts with other inputs, such as images or code, you can enable LLMs to perform tasks that they would not be able to perform otherwise.
+  - Making LLMs more accessible and user-friendly: Using prompt hacks can make it easier for people to use LLMs easily and effectively.
+
 ## LESSON
 
 ### Part 1: Interview Pattern Approach
