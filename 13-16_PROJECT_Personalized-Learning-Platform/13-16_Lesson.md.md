@@ -15,6 +15,10 @@
 
 ### Terminology & Concepts
 
+- **Personalized Learning**: An approach to education and training that tailors the learning experience to the individual learner's needs, preferences, and prior knowledge.
+
+- **Adaptive Learning**: An approach to education and training that adjusts the difficulty level and content of learning materials based on the learner's performance and progress.
+
 ## LESSON
 
 ### Part 1:
