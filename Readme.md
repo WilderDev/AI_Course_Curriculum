@@ -115,18 +115,18 @@
 
 #### Lessons
 
-1. **TSK**
-   - **Description**:
-   - **Content**:
-2. **TSK**
-   - **Description**:
-   - **Content**:
-3. **TSK**
-   - **Description**:
-   - **Content**:
-4. **TSK**
-   - **Description**:
-   - **Content**:
+1. **Software Development and Generative AI Introduction**
+   - **Description**: In this module, you will learn about the intersection of software development and generative AI. You will explore how generative AI models can be used to generate code snippets, scripts, and programs. You will also learn about the applications of generative AI in software development, such as application design and architecture, bug detection, code refactoring, and program optimization. We will setup an OpenAI Account and generate an API key.
+   - **Content**: 4 videos + 2 labs + 1 reading
+2. **Getting Familiar with Leveraging AI in Software Development**
+   - **Description**: In this module, you will learn about the tools and models that can be used to generate code snippets, scripts, and programs. You will explore by building a basic Chatbot with ChatGPT. You will also learn how to use generative AI for design patterns, architecture, database design and getting a solution for coding problems with ChatGPT.
+   - **Content**: 3 videos + 4 labs.
+3. **Going Deeper with CoPilot, Prototyping & Generating Websites with AI**
+   - **Description**: In this module you will learn a bit more about GitHub CoPilot and how to use it for code generation and troubleshooting. You wil also build static websites, and prototype with AI.
+   - **Content**: 4 videos + 3 labs + 1 quiz
+4. **Generative AI for DevSecOps/Testing & Generative AI Considerations**
+   - **Description**: In this module, you will learn about the applications of generative AI in DevSecOps and testing. You will explore how generative AI can be used to generate test cases, detect bugs, and optimize programs. You will also learn about the challenges and ethical considerations associated with using generative AI for programming and options for mitigating them.
+   - **Content**: 6 videos + 6 labs + 3 quizes
 5. **TSK**
    - **Description**:
    - **Content**:
