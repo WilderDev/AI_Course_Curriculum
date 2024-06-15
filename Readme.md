@@ -127,21 +127,13 @@
 4. **Generative AI for DevSecOps/Testing & Generative AI Considerations**
    - **Description**: In this module, you will learn about the applications of generative AI in DevSecOps and testing. You will explore how generative AI can be used to generate test cases, detect bugs, and optimize programs. You will also learn about the challenges and ethical considerations associated with using generative AI for programming and options for mitigating them.
    - **Content**: 6 videos + 6 labs + 3 quizes
-5. **TSK**
-   - **Description**:
-   - **Content**:
-6. **TSK**
-   - **Description**:
-   - **Content**:
+5. **Flex Day 1**
+   - **Description**: In this module you will have a flex day. I wanted this day to be open in-case of holidays, need for review on a particular lesson, if you weren't able to finish a lesson, or if you wanted to go back and review a lesson. The previous lesson (Lesson 10) is rather long, so if you need to split it up, this is a good place to do that.
+   - **Content**: N/A
+6. **Flex Day 2**
+   - **Description**: In this module you will have a flex day. I wanted this day to be open in-case of holidays, need for review on a particular lesson, if you weren't able to finish a lesson, or if you wanted to go back and review a lesson. You can also begin planning and setting up for your final project.
+   - **Content**: N/A
 7. **Project: Personalized Learning Platform - Class 1**
-   - **Description**:
-   - **Content**:
 8. **Project: Personalized Learning Platform - Class 2**
-   - **Description**:
-   - **Content**:
 9. **Project: Personalized Learning Platform - Class 3**
-   - **Description**:
-   - **Content**:
 10. **Project: Personalized Learning Platform - Class 4**
-    - **Description**:
-    - **Content**:
