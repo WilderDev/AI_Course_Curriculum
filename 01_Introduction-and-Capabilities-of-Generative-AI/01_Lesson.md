@@ -78,7 +78,7 @@
 
 - _In this exercise, you will prompt the generative AI classroom chatbot to generate the desired text and review the generative AI model's text generation capability._
 
-1. **Step 1**: Setup the AI Classroom
+1. **Step 1**: Setup the AI Classroom or Open up your preferred generative AI tool
 
 - Name the chat
 - Choose the model
@@ -110,53 +110,68 @@
 
 ### Part 2: Generative AI Quiz
 
-1. **Question 1**: Generative AI models can _?????_ the training data to create unique content.
+#### Question 1:
 
-   1. Draw conclusions from
-   2. Differentiate between
-   3. Learn from
-   4. Identify patterns and classify
+Gerative AI models can _?????_ the training data to create unique content.
 
-2. **Question 2**: What does generative AI do differently than discriminative AI?
+1.  Draw conclusions from
+2.  Differentiate between
+3.  Learn from
+4.  Identify patterns and classify
 
-   1. Mimics the human ability to classify data
-   2. Mimics the human ability to analyze data
-   3. Mimics the human ability to predict data
-   4. Mimics the human ability to create data
+#### Question 2:
 
-3. **Question 3**: What type of generative AI capability does a large language model primarily exhibit?
+What does generative AI do differently than discriminative AI?
 
-   1. Text generation
-   2. Audio generation
-   3. Data augmentation
-   4. Image generation
+1.  Mimics the human ability to classify data
+2.  Mimics the human ability to analyze data
+3.  Mimics the human ability to predict data
+4.  Mimics the human ability to create data
 
-4. **Question 4**: Using a generative AI tool, Emily wants to create an image of a zebra-striped cat with a purple hat. Identify the best prompt for this task.
+#### Question 3:
 
-   1. List cat breeds that look like zebras or have stripes.
-   2. Find a zebra-striped cat that wears a purple hat.
-   3. Draw an image of a zebra-striped cat with a purple hat.
-   4. What’s the difference between a zebra and a cat?
+What type of generative AI capability does a large language model primarily exhibit?
 
-5. **Question 2**: Tiana is designing a game and decides to create one avatar with specific personality traits. What type of generative AI capability is Tiana using?
+1.  Text generation
+2.  Audio generation
+3.  Data augmentation
+4.  Image generation
 
-   1. Ability to generate dynamic films
-   2. Ability to augment data
-   3. Ability to synthesize images
-   4. Ability to create virtual worlds
+#### Question 4:
 
-6. **Question 3**: A metaverse platform with generative AI capabilities will allow you to access _?????,_ which is not possible with other generative AI tools.
+Using a generative AI tool, Emily wants to create an image of a zebra-striped cat with a purple hat. Identify the best prompt for this task.
 
-   1. Synthetic images
-   2. Clear and contextually relevant text
-   3. Virtual avatars
-   4. Augmented data sets
+1.  List cat breeds that look like zebras or have stripes.
+2.  Find a zebra-striped cat that wears a purple hat.
+3.  Draw an image of a zebra-striped cat with a purple hat.
+4.  What’s the difference between a zebra and a cat?
 
-7. **Question 4**: What input data does VideoGPT best respond to?
-   1. Text prompts
-   2. Video prompts
-   3. AI-generated code
-   4. Image prompts
+#### Question 5:
+
+Tiana is designing a game and decides to create one avatar with specific personality traits. What type of generative AI capability is Tiana using?
+
+1.  Ability to generate dynamic films
+2.  Ability to augment data
+3.  Ability to synthesize images
+4.  Ability to create virtual worlds
+
+#### Question 6:
+
+A metaverse platform with generative AI capabilities will allow you to access _?????,_ which is not possible with other generative AI tools.
+
+1.  Synthetic images
+2.  Clear and contextually relevant text
+3.  Virtual avatars
+4.  Augmented data sets
+
+#### Question 7:
+
+What input data does VideoGPT best respond to?
+
+1.  Text prompts
+2.  Video prompts
+3.  AI-generated code
+4.  Image prompts
 
 ## REVIEW
 
